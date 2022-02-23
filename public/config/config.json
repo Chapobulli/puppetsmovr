@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xd364fB95989F5A47dDb9665149DD750782d37c7f",
-  "SCAN_LINK": "https://moonbeam.moonscan.io/token/0xd364fB95989F5A47dDb9665149DD750782d37c7f",
+  "CONTRACT_ADDRESS": "0xb8017E9660960C58b63d2DEdA983De4A7912E379",
+  "SCAN_LINK": "https://moonriver.moonscan.io/token/0xb8017E9660960C58b63d2DEdA983De4A7912E379",
   "NETWORK": {
-    "NAME": "Moonbeam",
-    "SYMBOL": "GLMR",
-    "ID": 1284
+    "NAME": "Moonriver",
+    "SYMBOL": "MOVR",
+    "ID": 1285
   },
   "NFT_NAME": "Bored Puppets Yacht Club",
   "SYMBOL": "BPYC",
   "MAX_SUPPLY": 3333,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Marketplace",
   "MARKETPLACE_LINK": "https://tofunft.com/collection/boredpuppetsyachtclub",
