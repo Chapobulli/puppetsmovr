@@ -252,13 +252,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://boredpuppetsyachtclub.com", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                How to Buy
+                Official Site
               </StyledButton>
               <StyledButton
                 style={{
