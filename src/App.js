@@ -261,6 +261,16 @@ function App() {
                 Roadmap
               </StyledButton>
               <StyledButton
+                onClick={(e) => {
+                  window.open("https://boredpuppetsyachtclub.com", "_blank");
+                }}
+                style={{
+                  margin: "5px",
+                }}
+              >
+               Official Site
+              </StyledButton>
+              <StyledButton
                 style={{
                   margin: "5px",
                 }}
