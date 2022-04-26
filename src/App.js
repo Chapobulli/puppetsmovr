@@ -278,7 +278,7 @@ function App() {
                   margin: "5px",
                 }}
               >
-               Official Site
+               Marketplaces
               </StyledButton>
             </span>
             <s.SpacerSmall />
