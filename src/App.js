@@ -271,14 +271,14 @@ function App() {
                Official Site
               </StyledButton>
               <StyledButton
+                onClick={(e) => {
+                  window.open("https://tapk.it/boredpuppetsyachtclub", "_blank");
+                }}
                 style={{
                   margin: "5px",
                 }}
-                onClick={(e) => {
-                  window.open(CONFIG.MARKETPLACE_LINK, "_blank");
-                }}
               >
-                {CONFIG.MARKETPLACE}
+               Official Site
               </StyledButton>
             </span>
             <s.SpacerSmall />
